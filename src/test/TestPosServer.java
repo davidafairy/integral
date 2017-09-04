@@ -20,6 +20,7 @@ public class TestPosServer implements InitializingBean {
 	private String hostName="localhost";
 	private Integer port=9922;
 	
+	
 //	private String unicomHostName="211.0.0.195";
 //	private Integer unicomPort=5555;
 //	
